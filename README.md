@@ -1,4 +1,5 @@
 # Introduction to Data Science
+
 learned various concept of data science techniques and methodology. Explorer various libraries in python with existing datasets.
 
 Learning goals:
@@ -19,6 +20,7 @@ Learning goals:
 
 8. To estimate the parameters of a distribution and propose a model that explains the underlying data.
 Instructions
+
 
 
 
